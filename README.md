@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hola!
+![N|Solid](https://i.ibb.co/tznTT9Y/template.png)
 
-<!--
-**blenddzy/blenddzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de programación!
+Futuro Full-Stack Developer en JavaScript
 
-Here are some ideas to get you started:
+## Algunos proyectos mios!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sitio web personal/portafolio
+
+> Sitio creado usando solamente lo basico de HTML, CSS y JavaScript!
+> Aún falta la parte responsiva (en progreso)
+> Repositorio [Aqui](https://github.com/blenddzy/personal-site).
+> Demo [ACÁ](https://fede-gregori-site.netlify.app/).
+
+Otro sitio web tambien simple
+> Sitio basico usando HTML, CSS, JavaScript y Boostrap.
+> Aún falta la parte responsiva (en progreso)
+> Repositorio [Aqui](https://github.com/blenddzy/simple_web/blob/main/index.html).
+> Demo [ACÁ](https://unruffled-turing-455a86.netlify.app/).
+
+CRUD simple
+> CRUD usando Node, MongoDB y JavaScript
+> Sirve para agregar/quitar/modificar alumnos a una base de datos usando MongoDB
+> Repositorio [Aqui](https://github.com/blenddzy/CRUD-1).
+
+## por ahora son todos los proyectos, me encuentro creando varios mas actualmente, apenas los termine los iré subiendo!
