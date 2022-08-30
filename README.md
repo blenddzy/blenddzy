@@ -1,9 +1,9 @@
 # Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ## Un poco sobre mi
-##### Actualmente estudiando para llegar a ser Data Analitycs, pronto subiré algunos proyectos de eso.
+##### Actualmente estudiando programación en TecLab
 
 ##
-#### 📍 Vivo en: La Rioja, Argentina
+#### 📍 Vivo en: Cordoba, Argentina
 #### ✉ fgregori995@gmail.com
 #### 📚 Teclab - Tecnicatura Superior en Programación
 
