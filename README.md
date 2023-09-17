@@ -1,6 +1,6 @@
 # Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ## Un poco sobre mi
-##### Actualmente estudiando programación en TecLab
+##### Actualmente estudiando programación en TecLab - Futuro Data Scienist
 
 ##
 #### 📍 Vivo en: Cordoba, Argentina
