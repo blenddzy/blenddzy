@@ -5,7 +5,7 @@
 ##
 #### 📍 Vivo en: Cordoba, Argentina
 #### ✉ fgregori995@gmail.com
-#### 📚 Teclab - Tecnicatura Superior en Programación
+#### 📚 Teclab - Tecnicatura Superior en Ciencia de Datos
 
 ##
 ## Lenguajes que se usar y herramientas
