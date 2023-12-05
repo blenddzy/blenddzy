@@ -1,6 +1,6 @@
 # Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-## Un poco sobre mi
-##### Actualmente estudiando programación en TecLab - Futuro Data Scienist
+## un poco sobre mi
+##### Actualmente estudiando programación en Teclab - Futuro Data Scienist
 
 ##
 #### 📍 Vivo en: Cordoba, Argentina
@@ -27,7 +27,7 @@
 
 ## Algunos proyectos de desarollo web que hice.
 
-Sitio web personal/portafolio
+Sitio web personal 
 
 > Sitio creado usando solamente lo basico de HTML, CSS y JavaScript!
 > Aún falta la parte responsiva (en progreso)
