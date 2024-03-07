@@ -1,6 +1,6 @@
 # Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ## un poco sobre mi
-##### Actualmente estudiando programación en Teclab - Futuro Data Scienist
+##### Actualmente estudiando Tecnicatura en Ciencia de Datos.
 
 ##
 #### 📍 Vivo en: Cordoba, Argentina
@@ -26,6 +26,23 @@
 
 
 ## Algunos proyectos de desarollo web que hice.
+
+Sitio web Personal donde muestro mis proyectos como data scienist.
+
+> Sitio creado usando la plataforma Ccard.
+> Sitio [ACÁ](https://fgregori.carrd.co/).
+
+Sitio web Fundación Argentina C.A.T.R.E
+
+> Sitio creado usando Wordpress, elementor y modificando algunos plugins.
+> Sitio web [ACÁ](https://catre.com.ar/).
+
+
+Sitio web Fundación Argentina FUNACOL
+
+> Sitio creado usando Wordpress, elementor y modificando algunos plugins.
+> Sitio web [ACÁ](https://funacol.org/).
+
 
 Sitio web personal 
 
