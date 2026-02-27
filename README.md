@@ -1,6 +1,6 @@
 # Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ## un poco sobre mi
-##### Actualmente estudiando Tecnicatura en Ciencia de Datos.
+##### Técnico en Ciencia de Datos.
 
 ##
 #### 📍 Vivo en: Cordoba, Argentina
