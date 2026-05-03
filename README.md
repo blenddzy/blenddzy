@@ -2,7 +2,7 @@
 
 **Técnico en Ciencia de Datos** | Análisis de Negocios · Power BI · SQL · Automatización · Webscraping
 
-📍 Córdoba, Argentina · ✉️ fgregori995@gmail.com · [LinkedIn](https://linkedin.com/in/tu-usuario)
+📍 Córdoba, Argentina · ✉️ fgregori995@gmail.com · [LinkedIn](https://linkedin.com/in/fgregori995)
 
 ---
 
