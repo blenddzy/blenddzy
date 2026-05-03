@@ -29,7 +29,9 @@ Actualmente trabajo como **Analista de Negocios en SUMIAGRO CBA S.A.**, donde li
 
 ## 📊 Proyectos de Datos
 
-### 🌾 [Análisis de Mercado Agroindustrial con Webscraping](https://github.com/blenddzy/analisis-mercado-agro)
+> 🔧 *Repositorios en proceso de publicación*
+
+### 🌾 Análisis de Mercado Agroindustrial con Webscraping
 > **Python · BeautifulSoup · Pandas · Power BI**
 
 Automatización de recolección de precios de insumos agrícolas desde fuentes web. Limpieza y estructuración de datos para alimentar tableros de Power BI usados en decisiones de compra estratégicas.
@@ -40,10 +42,10 @@ Automatización de recolección de precios de insumos agrícolas desde fuentes w
 
 ---
 
-### ⚡ [Dashboard de Consumo Eléctrico - Lotería de Córdoba](https://github.com/blenddzy/dashboard-consumo-electrico)
+### ⚡ Dashboard de Consumo Eléctrico — Lotería de Córdoba
 > **Power BI · SQL · Excel Avanzado**
 
-Tablero interactivo desarrollado durante mi rol en B-GAMING/Boldt para el monitoreo y análisis del consumo eléctrico y recaudación de juegos de azar provinciales.
+Tablero interactivo para el monitoreo y análisis del consumo eléctrico y recaudación de juegos de azar provinciales, desarrollado durante mi rol en B-GAMING/Boldt.
 
 - Modelado de datos con SQL
 - Reportes automáticos diarios con scripts .bat
@@ -51,10 +53,10 @@ Tablero interactivo desarrollado durante mi rol en B-GAMING/Boldt para el monito
 
 ---
 
-### 🧾 [Automatización de Facturación con Python + ERP Low-Code](https://github.com/blenddzy/automatizacion-facturacion)
+### 🧾 Automatización de Facturación con ERP Low-Code + IA
 > **Python · VBA · Excel · IA (Antigravity)**
 
-Sistema ERP local construido con herramientas low-code e IA para automatizar la carga de facturas, calcular IVA, descuentos y conciliaciones bancarias. Eliminó el uso de papel y redujo en un 50% el tiempo de procesamiento.
+Sistema ERP local para automatizar la carga de facturas, calcular IVA, descuentos y conciliaciones bancarias. Eliminó el uso de papel y redujo un 50% el tiempo de procesamiento.
 
 - Scripts de automatización de carga de datos
 - Validación automática de cálculos fiscales
@@ -62,7 +64,7 @@ Sistema ERP local construido con herramientas low-code e IA para automatizar la 
 
 ---
 
-### 📈 [EDA - Análisis Exploratorio de Datos de Ventas](https://github.com/blenddzy/eda-ventas)
+### 📈 EDA — Análisis Exploratorio de Datos de Ventas
 > **Python · Pandas · Matplotlib · Seaborn**
 
 Análisis exploratorio completo sobre un dataset de ventas: limpieza, detección de outliers, correlaciones y visualizaciones para identificar patrones de demanda y estacionalidad.
@@ -73,10 +75,10 @@ Análisis exploratorio completo sobre un dataset de ventas: limpieza, detección
 
 ---
 
-### 🔍 [Scraper de Precios de Insumos](https://github.com/blenddzy/scraper-precios)
+### 🔍 Scraper de Precios de Insumos
 > **Python · BeautifulSoup · Requests · CSV**
 
-Script de webscraping para monitorear precios de insumos agropecuarios en tiempo real. Exporta los resultados a CSV listos para análisis en Excel o Power BI.
+Script de webscraping para monitorear precios de insumos agropecuarios. Exporta resultados a CSV listos para análisis en Excel o Power BI.
 
 - Scraping con manejo de errores y reintentos
 - Exportación estructurada a CSV
@@ -86,14 +88,14 @@ Script de webscraping para monitorear precios de insumos agropecuarios en tiempo
 
 ## 🌐 Proyectos Web
 
-| Proyecto | Descripción | Demo |
+| Proyecto | Descripción | Links |
 |---|---|---|
-| [personal-site](https://github.com/blenddzy/personal-site) | Portafolio personal con HTML, CSS y JS | [Ver demo](https://fede-gregori-site.netlify.app/) |
-| [simple_web](https://github.com/blenddzy/simple_web) | Sitio con Bootstrap | [Ver demo](https://unruffled-turing-455a86.netlify.app/) |
-| [CRUD-1](https://github.com/blenddzy/CRUD-1) | CRUD con Node.js y MongoDB | Repo |
-| [code-live](https://github.com/blenddzy/code-live) | Editor de código en tiempo real | Repo |
-| [CATRE](https://catre.com.ar/) | Sitio Fundación Argentina | [Ver](https://catre.com.ar/) |
-| [FUNACOL](https://funacol.org/) | Sitio Fundación Argentina | [Ver](https://funacol.org/) |
+| [personal-site](https://github.com/blenddzy/personal-site) | Portafolio personal con HTML, CSS y JS | [Demo](https://fede-gregori-site.netlify.app/) |
+| [simple_web](https://github.com/blenddzy/simple_web) | Sitio con Bootstrap | [Demo](https://unruffled-turing-455a86.netlify.app/) |
+| [CRUD-1](https://github.com/blenddzy/CRUD-1) | CRUD con Node.js y MongoDB | [Repo](https://github.com/blenddzy/CRUD-1) |
+| [code-live](https://github.com/blenddzy/code-live) | Editor de código en tiempo real | [Repo](https://github.com/blenddzy/code-live) |
+| CATRE | Sitio Fundación Argentina (WordPress) | [Ver](https://catre.com.ar/) |
+| FUNACOL | Sitio Fundación Argentina (WordPress) | [Ver](https://funacol.org/) |
 
 ---
 
@@ -107,8 +109,10 @@ Script de webscraping para monitorear precios de insumos agropecuarios en tiempo
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fgregori995)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fgregiri995)
 [![Gmail](https://img.shields.io/badge/-fgregori995@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fgregori995@gmail.com)
 [![GitHub](https://img.shields.io/badge/-blenddzy-181717?style=flat&logo=github&logoColor=white)](https://github.com/blenddzy)
 
 ---
+
+*⚙️ Siempre construyendo. Nuevos proyectos en camino.*
